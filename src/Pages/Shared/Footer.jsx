@@ -45,7 +45,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <footer className="footer footer-center bg-black text-white text-base-content p-4">
+      <footer className="footer footer-center bg-black text-white p-4">
         <aside>
           <p>
             Copyright © {new Date().getFullYear()} - All right reserved by Bistro Boss
